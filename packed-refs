@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled 
+63625ce60a378c81a14912a011e541bd6d8b933e refs/heads/bugfix/PDLEGACY-506
+47b56c7b3a5ca36180dd21d009e6177cfe852344 refs/heads/master
+204cc08bb9d68c1bb8ecb5a546c4d8f16be85e55 refs/heads/rails_4
